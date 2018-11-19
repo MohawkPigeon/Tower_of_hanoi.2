@@ -3,7 +3,7 @@
 ### Added
 - Changelog
 - New button and text field added for choosing the desired number of disks.
-- Randomly generated colors for disks.
+- Randomly generated colors for rectangles.
 - Automatically generated rectangles + disks.
 - Entirely new system for updating the game field and sorting rectangles + disks for java fx.
 
